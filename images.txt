@@ -2,7 +2,7 @@ nginx
 redis:7.2
 mysql:5.7
 php:8.0.25
-metrics-server-amd64:v0.3.6
+k8s.gcr.io/metrics-server/metrics-server:v0.5.0
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
