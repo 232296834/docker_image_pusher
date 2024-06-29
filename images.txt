@@ -1,4 +1,4 @@
-csanchez/maven:latest-openjdk-17
+csanchez/maven:3.9.6-openjdk-17
 #centos:7.9.2009
 #docker:24.0.9
 #nginx
