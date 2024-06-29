@@ -1,4 +1,5 @@
-docker
+centos:7.9.2009
+docker:24.0.9
 #nginx
 #redis:7.2
 #mysql:5.7
