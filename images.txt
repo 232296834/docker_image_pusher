@@ -1,4 +1,4 @@
-nodejs
+node.js
 #maven:3.9.8-eclipse-temurin-11
 #centos:7.9.2009
 #docker:24.0.9
