@@ -1,4 +1,4 @@
-https://dl.k8s.io/release/v1.22.12/bin/linux/amd64/kubectl
+dl.k8s.io/release/v1.22.12/bin/linux/amd64/kubectl
 #maven:3.9.8-eclipse-temurin-11
 #centos:7.9.2009
 #docker:24.0.9
